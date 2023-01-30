@@ -1,2 +1,2 @@
 # SeleniumPrj-TestngProgram
-This file consist of 
+This file consist of a TestNG program.
